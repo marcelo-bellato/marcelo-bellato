@@ -57,13 +57,12 @@ Passionate about **Quality Engineering, Automation, CI/CD and Continuous Improve
 ## 💼 About Me
 
 - ✔ 5+ years in Software Quality
-- ✔ Test Automation Specialist
-- ✔ Web, Mobile and API Testing
+- ✔ Test Automation for Web, Mobile and REST APIs
+- ✔ LATAM Projects (Brazil, Uruguay and Panama)
+- ✔ Cross-functional Agile Teams
 - ✔ CI/CD Pipelines
-- ✔ Agile Methodologies
-- ✔ BDD
-- ✔ Shift Left Testing
-- ✔ Banking & Insurance Projects
+- ✔ BDD & Shift Left Testing
+- ✔ Banking & Insurance Domain
 - ✔ Automation Framework Design
 
 ---
