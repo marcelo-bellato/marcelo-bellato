@@ -2,7 +2,7 @@
 
 # Hi there, I'm Marcelo Bellato 👋
 
-### Senior QA Engineer | Test Automation | Web • Mobile • API
+### Senior QA Engineer | Quality Engineering | Test Automation | Web • Mobile • API | Playwright | Cypress | Selenium | Appium
 
 I'm a Senior QA Engineer with over **5 years of experience** designing and implementing automated testing solutions for **Web, Mobile and REST APIs**.
 
