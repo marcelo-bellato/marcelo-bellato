@@ -4,9 +4,11 @@
 
 ### Senior QA Engineer | Quality Engineering | Test Automation | Web • Mobile • API | Playwright | Cypress | Selenium | Appium
 
-I'm a Senior QA Engineer with over **5 years of experience** designing and implementing automated testing solutions for **Web, Mobile and REST APIs**.
+I'm a Senior QA Engineer with over 5 years of experience designing and implementing test automation solutions for Web, Mobile and RESTful APIs.
 
-Passionate about **Quality Engineering, Automation, CI/CD and Continuous Improvement**.
+Experienced delivering quality solutions for LATAM projects, collaborating with distributed Agile teams across Brazil, Uruguay and Panama.
+
+Passionate about Quality Engineering, Test Automation, CI/CD and Continuous Improvement.
 
 </div>
 
@@ -52,6 +54,17 @@ Passionate about **Quality Engineering, Automation, CI/CD and Continuous Improve
 - 🔹 Appium Mobile Automation
 - 🔹 Selenium Java Framework
 
+---
+## 🎯 Core Expertise
+
+- Test Automation
+- Quality Engineering
+- Web Testing
+- Mobile Testing
+- API Testing
+- CI/CD
+- BDD
+- Test Strategy
 ---
 
 ## 💼 About Me
